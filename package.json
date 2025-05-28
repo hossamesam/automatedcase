@@ -1,0 +1,14 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "devC": "nodemon Content.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
